@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0">
+    <title>HTML Project</title>
+</head>
+ 
+<body>
+    <!--Header(start)-->
+    <table id="header" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="red">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="90%" align="center">
+                    <tr>
+                        <td>
+                              
+ 
+                        </td>
+ 
+                        <td>
+                            <font face="Times New Roman" size="6">
+                                <b>Brodie Giffin Portfolio</b>
+                            </font>
+                        </td>
+ 
+                        <td width="15%">
+                              
+                        </td>
+ 
+                        <td>
+                            <a href="#home" style="text-decoration:none">
+                                <font face="Times New Roman" size="5" color=black>
+                                    Home
+                                </font>
+                            </a>
+                        </td>
+ 
+                        <td>
+                            |
+                        </td>
+ 
+                        <td>
+                            <a href="#about" style="text-decoration:none">
+                                <font face="Times New Roman" size="5" color=black>
+                                    About
+                                </font>
+                            </a>
+                        </td>
+ 
+                        <td>
+                            |
+                        </td>
+ 
+                        <td>
+                            <a href="#projects" style="text-decoration:none">
+                                <font face="Times New Roman" size="5" color=black>
+                                    Publications
+                                </font>
+                            </a>
+                        </td>
+ 
+                        <td>
+                            |
+                        </td>
+ 
+                        <td>
+                            <a href="#achievements" style="text-decoration:none">
+                                <font face="Times New Roman" size="5" color=black>
+                                    Projects
+                                </font>
+                            </a>
+                        </td>
+ 
+                        <td>
+                            |
+                        </td>
+ 
+                        <td>
+                            <a href="#contact" style="text-decoration:none">
+                                <font face="Times New Roman" size="4" color=black>
+                                    Technical 
+                                    Skill
+                                </font>
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--Header(end)-->
+ 
+    <!--Home(start)-->
+    <table id="home" border="1" width="100%"
+        cellpadding="20" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="90%" align="center">
+                    <tr>
+                        <td align="center" valign="middle">
+                            <h3>
+                                <font face="Times New Roman"
+                                    size="6" color="#ffffff">
+                                    Hello!
+                                </font>
+                            </h3>
+ 
+                            <h2>
+                                <font face="Verdana" size="6"
+                                    color="#4CAF50">
+                                </font>
+                            </h2>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--Home(end)-->
+ 
+ 
+    <!--About(start)-->
+    <table id="about" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="White">
+                                About Me
+                            </font>
+                            <hr color="White" width="90">
+                        </td>
+                    </tr>
+ 
+                    <tr>
+                        <td width="40%">
+                            <img src="img.png">
+                        </td>
+ 
+                       <td width="60%">
+                            <font face="Verdana" size="4"
+                                color="white">
+                                Here is a little about me
+                                before I get to the rest of
+                                this assginment.
+                                <hr color="black">
+                                My name is Brodie Giffin.I
+                                came to this school a little
+                                over a year ago. I had just
+                                graduated from Cooper High 
+                                School and also finished my 
+                                Associate of Arts at Eastfield 
+                                college through dual credit classes.
+                                <hr color="black">
+ 
+                                I chose to come here and go 
+                                down the programming path because
+                                I always had fun with a rudementary
+                                understanding of programming.
+                                If I chose any other major then it 
+                                would probably have to be involved
+                                with history somehow.
+                                <hr color="black">
+ 
+                                I don't have a very deep understanding
+                                of programming or computers, but
+                                I did take classes last year and am
+                                involved in classes this year that
+                                teach python and java, so I hope to
+                                understand even more by the time
+                                I'm done here.
+                                <hr color="black">
+                                
+                                Thanks for reading this, and
+                                I hope you have a great day
+                                today!
+                                <hr color="black">
+                                <br>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+                <hr color="black">
+                <hr color="black">
+                <hr color="black">
+            </td>
+        </tr>
+    </table>
+    <!--About(end)-->
+ 
+ 
+    <!--Publications(start)-->
+    <table id="publications" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="grey">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="black">
+                                Publications
+                            </font>
+                            <hr color="black" width="90">
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td width="40%">
+                            <img src="img.png">
+                        </td>
+ 
+                       <td width="60%">
+                            <font face="Verdana" size="4"
+                                color="white">
+                                I don't have any publications
+                                or any other such source or 
+                                resource yet. I do not have 
+                                any real experience in this
+                                field as I was hoping that
+                                class would help teach me 
+                                first.
+                                
+                                This is the first real "work"
+                                that I've ever done of this 
+                                nature. I'm hoping that it turns
+                                out ok.
+                               
+                                <br>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--Publications(end)-->
+ 
+    <!--Projects(start)-->
+    <table id="projects" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center" valign="middle">
+                            <font face="Verdana" size="7" color="White">
+                                Projects
+                                <hr color="White" width="100">
+                            </font>
+                            <tr>
+                        <td width="40%">
+                            <img src="img.png">
+                        </td>
+ 
+                       <td width="60%">
+                            <font face="Verdana" size="4"
+                                color="white">
+                                This is the first project that
+                                I have ever worked on for any
+                                sort of web programming that 
+                                I've ever done. This itself is
+                                heavily based off of other code
+                                as I still found the other 
+                                versions I've made to be ugly
+                                and unfufilling.
+                                <hr color="black">
+                                
+                                This is the first real project
+                                that I've ever done of this 
+                                nature. I'm hoping that it turns
+                                out ok.
+                               
+                                <br>
+                            </font>
+                        </td>
+                    </tr>
+                
+            </td>
+        </tr>
+    </table>
+                        
+                    
+    <!--Projects(end)-->
+ 
+ 
+    <!--Technical skills(start)-->
+    <table id="Technical Skills" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="grey">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="black">
+                                Technical Skills
+                            </font>
+                            <hr color="black" width="90">
+                            <td width="60%">
+                            <font face="Verdana" size="4"
+                                color="white">
+                                I have a very minor amount
+                                of skill in Python and Java
+                                when it comes to programming.
+                                I've also interacted with 
+                                C++, but that was a long time 
+                                ago. I'm also currently taking
+                                a class that covers the SQL 
+                                workbench. Essentially, I'm
+                                still a beginner in terms of skill.
+                               
+                                <br>
+                            </font>
+                        </td>
+                    </tr>
+    <!--Technical Skills(end)-->
